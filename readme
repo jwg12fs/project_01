@@ -1,0 +1,34 @@
+1:
+webpack
+webpack-cli
+webpack-dev-server
+
+2:
+处理JS => ES6 ES7 装饰器
+
+六件套
+babel-loader@7
+babel-core
+babel-preset-env
+
+babel-plugin-transform-runtime
+
+babel-plugin-transform-decorators
+babel-plugin-transform-decorators-legacy
+
+3:
+处理 sass => css => style
+
+四大件
+sass-loader
+node-sass
+css-loader
+style-loader
+
+4：
+处理模板  ejs-loader
+
+5:
+处理HTML
+
+html-webpack-plugin  
